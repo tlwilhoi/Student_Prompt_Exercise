@@ -1,0 +1,10 @@
+[2025-09-15 16:46:36] --- Begin Employee/Manager Tests ---
+[2025-09-15 16:46:36] PASS: Valid Employee created.
+[2025-09-15 16:46:36] PASS: Invalid EmployeeID rejected: EmployeeID must be a 4-digit number.
+[2025-09-15 16:46:36] PASS: Duplicate EmployeeID rejected: EmployeeID 1234 is already in use.
+[2025-09-15 16:46:36] PASS: Invalid first name rejected: First Name cannot be empty or contain digits.
+[2025-09-15 16:46:36] PASS: Invalid department rejected: Department must be 3 uppercase letters.
+[2025-09-15 16:46:36] PASS: Invalid phone number rejected: Phone number must be a valid 10-digit number.
+[2025-09-15 16:46:36] PASS: Valid Manager created.
+[2025-09-15 16:46:36] PASS: Invalid team size rejected: Team size must be a non-negative integer.
+[2025-09-15 16:46:36] --- End Employee/Manager Tests ---

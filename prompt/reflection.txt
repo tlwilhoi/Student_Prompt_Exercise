@@ -1,0 +1,17 @@
+A lot of what AI generated was correct some were over the top in my opinon. Basically,
+I went through and just fixed what I thought needed to be simplified for the user
+AI was asking users for the index of employees, but that makes no sense. 
+I asked it instead to be  by employee ID. Overall, I really used AI for all of this 
+like even editing I had the copilot do. It was really impressive, but I felt like I learned nothing
+I was stressed doing it becasue it made me feel like I was not learning or working.
+It did have trouble with OOP and class, so I just had to copy and paste somethings
+around, but overall it did well. The Agentic AI was impressive it did almost exactly
+what I needed it do everytime.
+
+I saved problaby 3-5 hours using AI. The most return on investment I got from this
+is through the detailed part of coding where I typically make errors. The risks of AI
+would be that the code is too complex for such a simple task as well as for anything
+that is propietary I would be worried about AI knowing it. For younger devs I would 
+worry about them not learning some of the more complex ideas that are necessary.
+I think that AI will be a necessary tool for all future projects; even with the
+costs or risks assocaited it will be worthwhile to implement.
